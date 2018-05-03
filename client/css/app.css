@@ -72,6 +72,8 @@ a {
 
 .welcome {
     background: url('img/background3.png') no-repeat center center fixed;
+    width:288px;
+    height:508px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
